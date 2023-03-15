@@ -132,11 +132,7 @@ main{
   }
   .inicial div{
     margin: 0 auto;
-    width: 45vh;
     margin-bottom: 50px;
-  }
-  .inicial div h1{
-    width: 50vh;
   }
   .inicial .text{
     margin-top: 70px;
