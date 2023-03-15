@@ -115,6 +115,7 @@ main{
     padding: 10px 12px;
   }
   .inicial{
+    position: relative;
     padding-top: 10vh;
     padding-bottom: 10vh;
     text-align: center;
@@ -136,6 +137,7 @@ main{
   }
   .inicial .text{
     margin-top: 70px;
+    position: sticky;
   }
   .inicial h1{
     font-size: 60px;
@@ -149,6 +151,7 @@ main{
     Word-break:normal;
   }
   .whatsapp-button{
+    position: relative;
     margin-top: 80px;
     margin-bottom: 50px;
   }
